@@ -1,7 +1,13 @@
-# impressingCrush
-link mobile.js instead of script.js in index.html to work in mobile.
+A little digital surprise, crafted with heart.
+Each paper you drag is a piece of the story — your story — filled with smiles, memories, and the magic that makes you so special.
 
-![image](https://github.com/developerrahulofficial/impressingCrush/assets/83329806/1a50454f-634d-4d5b-8f8a-ef2333f366c9)
+🌟 What’s Inside?
+💌 Thoughtful words wrapped in digital paper
 
+🎶 A song that speaks when words fall short
 
-Thanks and Happy Coding.
+📸 Moments frozen in time
+
+❤️ A heart, hidden just for you — find it!
+
+"In a world full of pixels and code, this one's built from love."
